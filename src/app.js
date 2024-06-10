@@ -3,6 +3,7 @@
  *
  * @author Johan Leitet <johan.leitet@lnu.se>
  * @author Mats Loock <mats.loock@lnu.se>
+ * @author Dongzhu tan <dt222ha@student.lnu.se>
  * @version 1.1.0
  */
 
